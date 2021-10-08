@@ -1,5 +1,9 @@
 # Movie Seat Booking
 
+## Table of Contents
+- (Description) [# Description]
+- (Specification) [# Specifications]
+- 
 ## Description 
 App set up to make movie and seat selection according to availability of seats. The total amount owing at the bottom to reflect the movie and number of seats selected.
 
@@ -14,7 +18,7 @@ App set up to make movie and seat selection according to availability of seats. 
 ## Technologies Used
 - HTML
 - CSS
--Javascript
+- Javascript
 
 ## Screenshots
 
