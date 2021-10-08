@@ -1,7 +1,7 @@
 # Movie Seat Booking
 
 ## Table of Contents
-- [Description] (# Description)
+- [Description] (## Description)
 - [Specification] (# Specifications)
 - 
 ## Description 
