@@ -20,4 +20,3 @@ App set up to make movie and seat selection according to availability of seats. 
 
 <img width="831" alt="Screen Shot 2021-10-08 at 12 48 42 AM" src="https://user-images.githubusercontent.com/69980221/136500864-fd6d5d04-8081-4b2b-a162-5a01d95a2afe.png"> </br>
 <img width="619" alt="Screen Shot 2021-10-08 at 12 49 27 AM" src="https://user-images.githubusercontent.com/69980221/136500869-80598c67-455b-41b1-9116-6034a2cc185e.png"> </br>
-<img width="1440" alt="Screen Shot 2021-10-08 at 12 50 24 AM" src="https://user-images.githubusercontent.com/69980221/136500874-678276c4-a809-487d-ad97-61b3695cbdb2.png"> </br>
